@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>guru.springframework</groupId>
-	<artifactId>reactive-examples</artifactId>
+	<artifactId>spring-reactive-sandbox</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>reactive-examples</name>
+	<name>spring-reactive-sandbox</name>
 	<description>Reactive Programming Examples</description>
 
 	<parent>
